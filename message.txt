@@ -16,7 +16,7 @@ task.spawn(function()
     ----------------------------------------------------------------
     -- ✅ API CONFIG
     ----------------------------------------------------------------
-    local API_BASE = ""
+    local API_BASE = ''https://join-server.pages.dev''
     local PLACE_ID = 109983668079237
 
     local POLL_INTERVAL = 0.05
